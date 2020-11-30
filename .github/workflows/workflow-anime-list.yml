@@ -14,4 +14,4 @@ jobs:
       - uses: glup3/anilist-animes-action@v1.0.4
         with:
           ANILIST_USERNAME: 'strikeraryu'
-          HEADER_TITLE: "striker's cool awesome Animes"
+          HEADER_TITLE: "My Anime List"

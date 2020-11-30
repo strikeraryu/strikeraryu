@@ -57,7 +57,7 @@
 ---
 
 
-# My Animes
+# My Anime List 
 
 <!-- ANILIST:START -->
 <!-- ANILIST:END -->
