@@ -1,6 +1,6 @@
 ### Hi there, I am Aryamaan Jain, you can also call me Striker⚡
 
-## I'm a student by day🔆, developer by night🌙
+## I'm a student by day☀, developer by night🌙
 
 - ✍ I just started writing blogs
 - 🧐 I’m currently learning everything 🤣
@@ -12,7 +12,6 @@
 ### Connect with me:
 
 [<img align="left" alt="https://aryamaan-striker.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="striker-aryu56 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="striker_aryu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aryamaan Jain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="striker_aryu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -48,40 +47,31 @@
 - [ReVamp — Virtual Renovation](https://medium.com/@striker-aryu56/revamp-virtual-renovation-64bfd0f924d7?source=rss-61742cf1b984------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://striker-aryu56.medium.com/)
+<b>More..<b/>
+<br/>
+  [<img align="left" alt="striker-aryu56 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+  [<img align="left" alt="strikeraryu | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
 
 <br />
-<br />
+
 
 ---
 
 
-# My Anime List 
+<img align="left" alt="Striker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=strikeraryu&show_icons=true&hide_border=true" />
 
-<!-- ANILIST:START -->
-<!-- ANILIST:END -->
 
-<br />
-<br />
-----
+[website]: https://aryamaan-striker.netlify.app/
+[twitter]: https://twitter.com/striker_aryu
+[medium]: https://striker-aryu56.medium.com/
+[dev]: https://dev.to/strikeraryu
+[instagram]: https://www.instagram.com/striker_aryu/?hl=en
+[linkedin]: https://www.linkedin.com/in/aryamaan-jain-9330a8190/
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Striker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=strikeraryu&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://aryamaan-striker.netlify.app/
-[twitter]: https://twitter.com/striker_aryu
-[medium]: https://striker-aryu56.medium.com/
-[instagram]: https://www.instagram.com/striker_aryu/?hl=en
-[linkedin]: https://www.linkedin.com/in/aryamaan-jain-9330a8190/
