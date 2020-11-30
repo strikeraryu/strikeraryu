@@ -72,6 +72,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#299](https://github.com/Todarith/mathgenerator/issues/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+2. 💪 Opened PR [#299](https://github.com/Todarith/mathgenerator/pull/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+3. ❗️ Opened issue [#297](https://github.com/Todarith/mathgenerator/issues/297) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+4. ❗️ Closed issue [#275](https://github.com/Todarith/mathgenerator/issues/275) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+5. ❗️ Closed issue [#151](https://github.com/Todarith/mathgenerator/issues/151) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
 <!--END_SECTION:activity-->
 
 </details>
