@@ -47,8 +47,7 @@
 - [ReVamp — Virtual Renovation](https://medium.com/@striker-aryu56/revamp-virtual-renovation-64bfd0f924d7?source=rss-61742cf1b984------2)
 <!-- BLOG-POST-LIST:END -->
 
-<b>More..<b/>
-<br/>
+
   [<img align="left" alt="striker-aryu56 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
   [<img align="left" alt="strikeraryu | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][dev]
 
@@ -57,19 +56,14 @@
 
 ---
 
+<details>
+<summary>📋GitHub Stats</summary>
+<img alt="Striker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=strikeraryu&show_icons=true&hide_border=true" />
+</details>
 
-<img align="left" alt="Striker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=strikeraryu&show_icons=true&hide_border=true" />
-
-
-[website]: https://aryamaan-striker.netlify.app/
-[twitter]: https://twitter.com/striker_aryu
-[medium]: https://striker-aryu56.medium.com/
-[dev]: https://dev.to/strikeraryu
-[instagram]: https://www.instagram.com/striker_aryu/?hl=en
-[linkedin]: https://www.linkedin.com/in/aryamaan-jain-9330a8190/
 
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#299](https://github.com/Todarith/mathgenerator/issues/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
@@ -80,3 +74,10 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+[website]: https://aryamaan-striker.netlify.app/
+[twitter]: https://twitter.com/striker_aryu
+[medium]: https://striker-aryu56.medium.com/
+[dev]: https://dev.to/strikeraryu
+[instagram]: https://www.instagram.com/striker_aryu/?hl=en
+[linkedin]: https://www.linkedin.com/in/aryamaan-jain-9330a8190/
