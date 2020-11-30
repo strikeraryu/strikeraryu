@@ -11,7 +11,7 @@ jobs:
     name: Updates README Anime List
     steps:
       - uses: actions/checkout@v2
-      - uses: strikeraryu/anilist-animes-action@v1.0.4
+      - uses: glup3/anilist-animes-action@v1.0.4
         with:
           ANILIST_USERNAME: 'strikeraryu'
           HEADER_TITLE: "striker's cool awesome Animes"
