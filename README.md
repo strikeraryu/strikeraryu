@@ -44,6 +44,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ReVamp — Virtual Renovation](https://dev.to/strikeraryu/revamp-virtual-renovation-4j7p)
+- [Parallax Images](https://medium.com/analytics-vidhya/parallax-images-14e92ebb1bae?source=rss-61742cf1b984------2)
+- [ReVamp — Virtual Renovation](https://medium.com/@striker-aryu56/revamp-virtual-renovation-64bfd0f924d7?source=rss-61742cf1b984------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://striker-aryu56.medium.com/)
