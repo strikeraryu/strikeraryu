@@ -66,11 +66,11 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/strikeraryu/STUD/pull/2) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
-2. 🎉 Merged PR [#1](https://github.com/strikeraryu/STUD/pull/1) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
-3. 🗣 Commented on [#299](https://github.com/Todarith/mathgenerator/issues/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
-4. 💪 Opened PR [#299](https://github.com/Todarith/mathgenerator/pull/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
-5. ❗️ Opened issue [#297](https://github.com/Todarith/mathgenerator/issues/297) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+1. 🎉 Merged PR [#3](https://github.com/strikeraryu/STUD/pull/3) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+2. 🎉 Merged PR [#2](https://github.com/strikeraryu/STUD/pull/2) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+3. 🎉 Merged PR [#1](https://github.com/strikeraryu/STUD/pull/1) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+4. 🗣 Commented on [#299](https://github.com/Todarith/mathgenerator/issues/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+5. 💪 Opened PR [#299](https://github.com/Todarith/mathgenerator/pull/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
 <!--END_SECTION:activity-->
 
 </details>
