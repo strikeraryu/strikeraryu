@@ -66,11 +66,11 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/strikeraryu/STUD/pull/4) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
-2. 🎉 Merged PR [#3](https://github.com/strikeraryu/STUD/pull/3) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
-3. 🎉 Merged PR [#2](https://github.com/strikeraryu/STUD/pull/2) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
-4. 🎉 Merged PR [#1](https://github.com/strikeraryu/STUD/pull/1) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
-5. 🗣 Commented on [#299](https://github.com/Todarith/mathgenerator/issues/299) in [Todarith/mathgenerator](https://github.com/Todarith/mathgenerator)
+1. 🎉 Merged PR [#5](https://github.com/strikeraryu/STUD/pull/5) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+2. 🎉 Merged PR [#4](https://github.com/strikeraryu/STUD/pull/4) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+3. 🎉 Merged PR [#3](https://github.com/strikeraryu/STUD/pull/3) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+4. 🎉 Merged PR [#2](https://github.com/strikeraryu/STUD/pull/2) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+5. 🎉 Merged PR [#1](https://github.com/strikeraryu/STUD/pull/1) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
 <!--END_SECTION:activity-->
 
 </details>
