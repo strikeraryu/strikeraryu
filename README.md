@@ -67,9 +67,9 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17495](https://github.com/chapel-lang/chapel/issues/17495) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#17466](https://github.com/chapel-lang/chapel/issues/17466) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🎉 Merged PR [#4](https://github.com/strikeraryu/STUD/pull/4) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
+1. 🗣 Commented on [#17495](https://github.com/chapel-lang/chapel/issues/17495) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. ❗️ Opened issue [#17495](https://github.com/chapel-lang/chapel/issues/17495) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+3. 🗣 Commented on [#17466](https://github.com/chapel-lang/chapel/issues/17466) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🎉 Merged PR [#3](https://github.com/strikeraryu/STUD/pull/3) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
 5. 🎉 Merged PR [#2](https://github.com/strikeraryu/STUD/pull/2) in [strikeraryu/STUD](https://github.com/strikeraryu/STUD)
 <!--END_SECTION:activity-->
