@@ -68,10 +68,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17466](https://github.com/chapel-lang/chapel/issues/17466) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-2. 🗣 Commented on [#17498](https://github.com/chapel-lang/chapel/issues/17498) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+2. 🗣 Commented on [#17466](https://github.com/chapel-lang/chapel/issues/17466) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#17498](https://github.com/chapel-lang/chapel/issues/17498) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#17498](https://github.com/chapel-lang/chapel/issues/17498) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#17495](https://github.com/chapel-lang/chapel/issues/17495) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#17498](https://github.com/chapel-lang/chapel/issues/17498) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 </details>
