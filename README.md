@@ -70,8 +70,8 @@
 1. 🗣 Commented on [#17510](https://github.com/chapel-lang/chapel/issues/17510) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 2. 🗣 Commented on [#17510](https://github.com/chapel-lang/chapel/issues/17510) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#17510](https://github.com/chapel-lang/chapel/issues/17510) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 💪 Opened PR [#17510](https://github.com/chapel-lang/chapel/pull/17510) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#17466](https://github.com/chapel-lang/chapel/issues/17466) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+4. 🗣 Commented on [#17510](https://github.com/chapel-lang/chapel/issues/17510) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+5. 🗣 Commented on [#17510](https://github.com/chapel-lang/chapel/issues/17510) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 <!--END_SECTION:activity-->
 
 </details>
