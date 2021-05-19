@@ -67,7 +67,7 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17644](https://github.com/chapel-lang/chapel/issues/17644) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. 💪 Opened PR [#17787](https://github.com/chapel-lang/chapel/pull/17787) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 2. 🗣 Commented on [#17644](https://github.com/chapel-lang/chapel/issues/17644) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 3. 🗣 Commented on [#17644](https://github.com/chapel-lang/chapel/issues/17644) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
 4. 🗣 Commented on [#17644](https://github.com/chapel-lang/chapel/issues/17644) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
