@@ -67,11 +67,11 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/4) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
-2. 🗣 Commented on [#17787](https://github.com/chapel-lang/chapel/issues/17787) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-3. 🗣 Commented on [#17787](https://github.com/chapel-lang/chapel/issues/17787) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-4. 🗣 Commented on [#17787](https://github.com/chapel-lang/chapel/issues/17787) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-5. 🗣 Commented on [#17787](https://github.com/chapel-lang/chapel/issues/17787) in [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+1. ❗️ Opened issue [#10](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/10) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+2. ❗️ Opened issue [#9](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/9) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+3. ❗️ Opened issue [#8](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/8) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+4. ❗️ Opened issue [#7](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/7) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+5. ❗️ Opened issue [#6](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/6) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
 <!--END_SECTION:activity-->
 
 </details>
