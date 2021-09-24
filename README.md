@@ -67,11 +67,11 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/strikeraryu/Music_CLI_Bot/pull/1) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
-2. 💪 Opened PR [#1](https://github.com/strikeraryu/Music_CLI_Bot/pull/1) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
-3. 🗣 Commented on [#2](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/2) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
-4. ❗️ Opened issue [#10](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/10) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
-5. ❗️ Opened issue [#9](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/9) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+1. 🎉 Merged PR [#3](https://github.com/strikeraryu/Music_CLI_Bot/pull/3) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
+2. 💪 Opened PR [#3](https://github.com/strikeraryu/Music_CLI_Bot/pull/3) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
+3. 🎉 Merged PR [#2](https://github.com/strikeraryu/Music_CLI_Bot/pull/2) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
+4. 💪 Opened PR [#2](https://github.com/strikeraryu/Music_CLI_Bot/pull/2) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
+5. 🎉 Merged PR [#1](https://github.com/strikeraryu/Music_CLI_Bot/pull/1) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
 <!--END_SECTION:activity-->
 
 </details>
