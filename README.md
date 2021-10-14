@@ -67,11 +67,11 @@
   <summary>📜Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/pranjal36/SortingAlgorithms/pull/100) in [pranjal36/SortingAlgorithms](https://github.com/pranjal36/SortingAlgorithms)
-2. 🗣 Commented on [#12](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/12) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
-3. 🎉 Merged PR [#4](https://github.com/strikeraryu/Music_CLI_Bot/pull/4) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
-4. 💪 Opened PR [#4](https://github.com/strikeraryu/Music_CLI_Bot/pull/4) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
-5. 🗣 Commented on [#2](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/2) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+1. 💪 Opened PR [#101](https://github.com/pranjal36/SortingAlgorithms/pull/101) in [pranjal36/SortingAlgorithms](https://github.com/pranjal36/SortingAlgorithms)
+2. 💪 Opened PR [#100](https://github.com/pranjal36/SortingAlgorithms/pull/100) in [pranjal36/SortingAlgorithms](https://github.com/pranjal36/SortingAlgorithms)
+3. 🗣 Commented on [#12](https://github.com/DSC-Bennett-University/AI-ML-Starter/issues/12) in [DSC-Bennett-University/AI-ML-Starter](https://github.com/DSC-Bennett-University/AI-ML-Starter)
+4. 🎉 Merged PR [#4](https://github.com/strikeraryu/Music_CLI_Bot/pull/4) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
+5. 💪 Opened PR [#4](https://github.com/strikeraryu/Music_CLI_Bot/pull/4) in [strikeraryu/Music_CLI_Bot](https://github.com/strikeraryu/Music_CLI_Bot)
 <!--END_SECTION:activity-->
 
 </details>
